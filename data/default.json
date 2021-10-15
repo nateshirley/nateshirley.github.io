@@ -1,65 +1,29 @@
 {
-    "name": "Genesis 1: Larry Bape",
+    "name": "Madpacks",
     "symbol": "",
-    "description": "Artwork hand painted by ABNDGO",
-    "seller_fee_basis_points": 500,
-    "image": "https://i.imgur.com/rmTVavg.jpeg",
+    "description": "Minted with the madpacks standard.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nateshirley.github.io/data/madpacks-default.png",
     "attributes": [
         {
-            "trait_type": "Background",
-            "value": "Pink Strokes"
-        },
-        {
-            "trait_type": "Tattoos",
-            "value": "None"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Hipster Flip"
-        },
-        {
-            "trait_type": "Clothing",
-            "value": "Shirtless"
-        },
-        {
-            "trait_type": "Facial Hair",
-            "value": "Handlebar Mustace"
-        },
-        {
-            "trait_type": "Accessories",
-            "value": "None"
-        },
-        {
-            "trait_type": "Eyewear",
-            "value": "Pit Vipers"
+            "trait_type": "Origin",
+            "value": "Genesis"
         }
     ],
     "external_url": "",
     "properties": {
         "files": [
             {
-                "uri": "https://www.arweave.net/K5CMYsFZlAzv3r6Zl_gcZqYutq5P-SZ8nJSYzJ6U5Mc?ext=jpg",
-                "type": "image/jpeg"
+                "uri": "https://nateshirley.github.io/data/madpacks-default.png",
+                "type": "image/png"
             }
         ],
         "category": "image",
         "creators": [
             {
-                "address": "3m4nX9M6Cq2WDjdi57Y6QmaQ8ethgJ1pt58pxKGatGSr",
+                "address": "7p18ccUgAidUyLa2vGbBiWPbCwpx9D8V7pDCeFXQaCuJ",
                 "share": 100
             }
         ]
-    },
-    "status": [
-        {
-            "name": "Primary Market",
-            "value": 0,
-            "type": "primarySaleHappened"
-        },
-        {
-            "name": "Mutable",
-            "value": 1,
-            "type": "primarySaleHappened"
-        }
-    ]
+    }
 }
