@@ -1,20 +1,19 @@
 {
-    "name": "Madpacks",
+    "name": "Channels",
     "symbol": "",
-    "description": "Minted with the madpacks standard.",
+    "description": "Minted with the channels standard.",
     "seller_fee_basis_points": 0,
-    "image": "https://nateshirley.github.io/data/madpacks-default.png",
+    "image": "https://nateshirley.github.io/data/channels-default.png",
     "attributes": [
         {
             "trait_type": "Origin",
             "value": "Genesis"
         }
     ],
-    "external_url": "",
     "properties": {
         "files": [
             {
-                "uri": "https://nateshirley.github.io/data/madpacks-default.png",
+                "uri": "https://nateshirley.github.io/data/channels-default.png",
                 "type": "image/png"
             }
         ],
