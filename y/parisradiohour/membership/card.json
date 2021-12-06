@@ -1,0 +1,22 @@
+{
+    "name": "membership",
+    "symbol": "MEM",
+    "description": "paris radio hour membership",
+    "seller_fee_basis_points": 0,
+    "image": "https://nateshirley.github.io/y/parisradiohour/membership/card.png",
+    "attributes": [
+        {
+            "trait_type": "Origin",
+            "value": "Genesis"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nateshirley.github.io/y/parisradiohour/membership/card.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
