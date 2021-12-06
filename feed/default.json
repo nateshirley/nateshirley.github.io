@@ -1,0 +1,22 @@
+{
+    "name": "membership card",
+    "symbol": "YF",
+    "description": "membership card to the first yelllow feed",
+    "seller_fee_basis_points": 0,
+    "image": "https://nateshirley.github.io/feed/card.png",
+    "attributes": [
+        {
+            "trait_type": "Origin",
+            "value": "Genesis"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nateshirley.github.io/feed/card.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
