@@ -3,7 +3,7 @@
     "symbol": "ART",
     "description": "artifact from the first yelllow feed",
     "seller_fee_basis_points": 0,
-    "image": "https://nateshirley.github.io/feed/membership/card.png",
+    "image": "https://nateshirley.github.io/y/parisradiohour/session/artifact.png",
     "attributes": [
         {
             "trait_type": "Origin",
@@ -13,7 +13,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://nateshirley.github.io/feed/membership/card.png",
+                "uri": "https://nateshirley.github.io/y/parisradiohour/session/artifact.png",
                 "type": "image/png"
             }
         ],
