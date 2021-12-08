@@ -1,7 +1,7 @@
 {
-    "name": "session artifact",
-    "symbol": "ART",
-    "description": "artifact from the first yelllow feed",
+    "name": "PRH artifact",
+    "symbol": "PRH",
+    "description": "PRH x",
     "seller_fee_basis_points": 0,
     "image": "https://nateshirley.github.io/y/parisradiohour/session/artifact.png",
     "attributes": [
